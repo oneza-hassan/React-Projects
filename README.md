@@ -1,6 +1,4 @@
 
-
-```markdown
 # React Projects Collection
 
 A collection of React projects demonstrating various concepts and features.
@@ -55,4 +53,3 @@ MIT License
 
 Made with ❤️ by Oneza Hassan Alvi
 ```
-
